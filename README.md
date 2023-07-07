@@ -112,7 +112,7 @@ Mappings for:
     <td><a href="https://leetcode.com/problems/longest-increasing-subsequence/">16.12</a></td>
     </tr>
     <tr>
-    <td><a href="https://leetcode.com/problems/3sum">18.4</a></td>
+    <td><a href="https://leetcode.com/problems/3sum">18.4 (r)</a></td>
     <td><a href="https://leetcode.com/problems/gas-station/">17.6</a></td>
     <td><a href="https://leetcode.com/problems/majority-element/">17.5</a></td>
     <td><a href="https://leetcode.com/problems/container-with-most-water/">17.7</a></td>
