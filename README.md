@@ -105,7 +105,7 @@ Mappings for:
     <td><a href="">15.6</a>, <a href="https://leetcode.com/problems/gray-code/">15.10</a></td>
     </tr>
     <tr>
-    <td><a href="https://www.hackerrank.com/challenges/coin-change/problem?isFullScreen=true">17.1</a></td>
+    <td><a href="https://www.hackerrank.com/challenges/coin-change/problem?isFullScreen=true">17.1 (r)</a></td>
     <td><a href="https://leetcode.com/problems/edit-distance/">16.2</a></td>
     <td><a href="https://leetcode.com/problems/unique-paths/">16.3</a>, <a href="">16.6</a></td>
     <td><a href="">16.5</a>, <a href="https://leetcode.com/problems/word-break-ii/">16.7</a></td>
